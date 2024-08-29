@@ -1,9 +1,9 @@
 {
   "id": "legends-of-night-city",
   "title": "Legends of Night City",
+  "version": "1.0.0",
   "manifest": "https://raw.githubusercontent.com/Tastyhaggis91/lonc/main/module.json",
   "download": "https://github.com/Tastyhaggis91/lonc/archive/refs/tags/lonc.zip",
-  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
