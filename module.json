@@ -1,0 +1,60 @@
+{
+  "id": "legends-of-night-city",
+  "title": "Legends of Night City",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smalltime",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "custom-journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pinned-chat-message",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-simple-calendar",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "blade-runner",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/Tastyhaggis91/LONC",
+  "packs": [
+    {
+      "name": "legends-of-night-city",
+      "label": "Legends of Night City",
+      "path": "packs/legends-of-night-city",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "blade-runner",
+      "flags": {}
+    }
+  ]
+}
